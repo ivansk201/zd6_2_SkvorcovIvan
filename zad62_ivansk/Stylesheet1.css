@@ -1,0 +1,12 @@
+﻿body {
+    background-color: #000080;
+}
+label, entry {
+    color: #ffffff;
+}
+
+button {
+    background-color: #ff0000;
+    color: #ffffff;
+    border-radius: 10px;
+}
